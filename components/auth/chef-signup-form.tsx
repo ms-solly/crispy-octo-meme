@@ -309,7 +309,7 @@ export function ChefSignupForm() {
 
           <p className="text-center text-sm text-muted-foreground">
             Already have a chef account?{" "}
-            <Link href="/auth/login" className="text-primary hover:underline">
+            <Link href="/login" className="text-primary hover:underline">
               Sign in
             </Link>
           </p>
